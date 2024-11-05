@@ -2,7 +2,15 @@
 
 ## What idea(s) do you have for your final project?
 
-TODO
+Visual Novel
+
+2d Sidescroller
+
+An app with unity
+
+an image filter
+
+
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
